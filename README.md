@@ -1,8 +1,8 @@
 
 ## Installation
 
-- [Project Details](https://nabzclan.vip/resources/bypass-signing-apps-tracking.197/)
-- [Nabzclan - IPA Library](https://apps.nabzclan.vip/apps/safe-checker-app)
+- [Project Details](https://nabzclan.vip/resources/bypass-signing-apps-tracking.197/) - Download Debs OR Dylibs
+- [Nabzclan - IPA Library| Gbox No Tracking](https://apps.nabzclan.vip/apps/gbox-no-tracking)
 
 ## Contact
 
